@@ -1,0 +1,7 @@
+{
+  "name": "CueMaster Ladder Pro",
+  "description": "A comprehensive billiards ladder competition management system featuring player rankings, match tracking, performance analytics, and an AI-powered billiards coach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
